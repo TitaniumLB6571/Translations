@@ -2,6 +2,10 @@
   "version": "1.0.9",
   "default": "eng",
   "languages": {
+    "afr": {
+      "name": "Afrikaans",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/afr.yml"
+    },
     "eng": {
       "name": "English",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/eng.yml"
