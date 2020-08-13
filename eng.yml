@@ -57,19 +57,19 @@ scoreboard.lobby:
  
 # Lobby messages
 message.join-title: §2WELCOME BACK
-message.join-subtitle: §aon §fBedrock§6Play
+message.join-subtitle: §ato §fBedrock§6Play
 message.account-authenticated: §aYou were automatically logged in
-message.fly-enabled: §aFlying mode turned on!
+message.fly-enabled: §aFlight mode toggled on!
 message.join-staff: §6§lSTAFF §r§7{%0}§a joined the game!
 message.join-bedrock: §9§lBEDROCK §r§7{%0}§a joined the game!
 message.join-vip: §3§lVIP §r§7{%0}§a joined the game!
 message.join-yt: §c§lYOUTUBE §r§7{%0}§a joined the game!
 message.minigame-underdev: §cThis server is under development.
-message.lang-changed: §aLanguage was updated to English.
+message.lang-changed: §aLanguage has been updated to English.
 
 # Crates
 message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
-message.crate-subtitle: §7Buy crate for your crystals.
+message.crate-subtitle: §7Buy a crate with your crystals.
 message.crate-form-title: MysteryBox
 message.crate-form-subtitle: Please, select the crate which you want open
 message.crate-form-button-common: §b§lCOMMON§r 
@@ -79,11 +79,11 @@ message.crate-form-button-voter: §9§lVOTER§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
 message.crate-crystals: Crystals
 message.crate-form-button-box-available: §a- 1 box available
-message.crate-form-button-need-rank: §c- Requires {%0} rank
+message.crate-form-button-need-rank: §c- Required rank {%0}
 message.crate-form-button-buy: §7§l> §r§7Click to buy
-message.crate-form-button-cannot-buy: §7§l> §r§7You need more crystals to buy this box
+message.crate-form-button-cannot-buy: §7§l> §r§7You do not have enough crystals to buy this box!
 message.crate-form-click-to-open: §7§l> §r§7Click to open
-message.crate-form-have-not-boxes: §7§l> §r§7You haven't any {%0} boxes
+message.crate-form-have-not-boxes: §7§l> §r§7No available {%0} boxes
 message.crate-received: §aYou've received {%0}!
 message.crate-coins: coins
 message.crate-have-not-voter: §cYou don't have any voter crates.
@@ -121,9 +121,9 @@ message.welcome-floating:
 message.builder-credits: "§7This amazing lobby was built by\n§e@CryptoKey98§7 and §e@DepstrajderTv"
 
 # Lobby chat messages
-message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
-message.chat-caps: §cDon't use CAPS when you are chatting!
-message.chat-advertisement: §cSorry, but advertisement isn't allowed on our server!
+message.muted: §cYou have been muted. Wait {%0} seconds to get un-muted.
+message.chat-caps: §cCAPS is not allowed in the general chat!
+message.chat-advertisement: §cSorry, but advertising isn't allowed on our server!
 message.chat-limit: §6Wait {%0} seconds to chat again.
 
 # Survival messages
