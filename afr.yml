@@ -1,0 +1,131 @@
+---
+# Prefixes
+prefix.game: §9Speletjie> §7
+prefix.server: §9Bediener> §7
+prefix.account: §9Rekening> §7
+prefix.crates: §9Crates> §7
+prefix.chat: §9Kratte> §7
+prefix.anticheat: §9Anti-Oneerlik> §7
+prefix.gadgets: §9Dingessies> §7
+prefix.particles: §9Deeltjies> §7
+prefix.pets: §9Troeteldiere> §7
+
+# MiniGame sub-prefixes
+prefix.join: §8Ingaan> §7
+prefix.quit: §8Uitgaan> §7
+
+# MiniGame prefixes
+prefix.vanilla: §9Oorlewing> §7
+prefix.skywars: §9Lug-Oorlog> §7
+prefix.thebridge: §9Die-Brug> §7
+prefix.eggwars: §9Eier-Oorlog> §7
+prefix.uhcrun: §9UHC-Lopie> §7
+prefix.duels: §9Tweestryde> §7
+
+# Ranks
+rank.owner: Eienaar
+rank.admin: Administrateur
+rank.mod: Moderator
+rank.helper: Helper
+rank.builder: Bouer
+rank.trainee: Leerling
+rank.developer: Ontwikkelaar
+rank.youtube: YouTube
+rank.bedrock: Bedrock
+rank.vip: Vip
+rank.voter: Stemmer
+rank.guest: Gas
+
+# Scoreboards
+scoreboard.lobby:
+- "§6§lBEDROCK PLAY"
+- ""
+- "§b§lAanlyn:"
+- "§f  {%0}"
+- ""
+- "§a§lKrystalle:"
+- "§f  {%1}"
+- ""
+- "§e§lMuntstukke:"
+- "§f  {%2}"
+- ""
+- "§6§lRang:"
+- "§f  {%3}"
+- ""
+- "§emc.bedrockplay.eu"
+
+
+# Lobby messages
+message.join-title: §2WELKOM TERUG
+message.join-subtitle: §ana §fBedrock§6Play
+message.account-authenticated: §aJy was automaties in jou rekening gestel
+message.fly-enabled: §aFlieg aangeskakel!
+message.join-staff: §6§lWERKER §r§7{%0}§a het ingekom!
+message.join-bedrock: §9§lBEDROCK §r§7{%0}§a het ingekom!
+message.join-vip: §3§lVIP §r§7{%0}§a het ingekom!
+message.join-yt: §c§lYOUTUBE §r§7{%0}§a het ingekom!
+message.minigame-underdev: §cBediener onder kontruksie.
+message.lang-changed: §aTaal verander na Afrikaans.
+
+# Crates
+message.crate-title: §6§l§k|§r§e§l Wonder Boks §6§k|§r
+message.crate-subtitle: §7Koop n krat met krystalle.
+message.crate-form-title: Wonder Boks
+message.crate-form-subtitle: Kies n krat wat u wil oopmaak.
+message.crate-form-button-common: §b§lKOMMON§r
+message.crate-form-button-rare: §b§lSKAARS§r
+message.crate-form-button-legendary: §b§lLEGENDE§r
+message.crate-form-button-voter: §9§lSTEMMER§r
+message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-crystals: Krystalle
+message.crate-form-button-box-available: §a- 1 krat beskikbaar
+message.crate-form-button-need-rank: §c- U nodig die {%0} rang
+message.crate-form-button-buy: §7§l> §r§7Klik om te koop
+message.crate-form-button-cannot-buy: §7§l> §r§7U nodig meer krystalle om die krat te koop!
+message.crate-form-click-to-open: §7§l> §r§7Klik om te koop
+message.crate-form-have-not-boxes: §7§l> §r§7U het nie enige {%0} kratte nie.
+message.crate-received: §aU het n {%0} krat ontvang!
+message.crate-coins: Muntstukke
+message.crate-have-not-voter: §cU het nie enige stem kratte nie.
+message.crate-have-not-bedrock: §cU het nie enige "bedrock" kratte nie.
+message.crate.have-not-crystals: §cU het nie krystalle om die krat te ontvang nie.
+
+# Leaderboards
+message.leaderboard-title: §6§l§k|§r§e§l Rang-Lys §6§k|§r
+message.leaderboard-kills: Moorde
+message.leaderboard-wins: Wenne
+
+# Floating texts
+message.voter-rank:
+- "§8§l--- == [ §eSTEM RANG §8] == ---"
+- "§7Stem vir ons bediener by §ebit.do/bedrockplay§7"
+- "§7en ontvang pryse soos §eFlieg§7"
+- "§7in Algemene area, STEM §eKratte§7 en Stemmer rang"
+- "§7§eVERNIET§7!"
+
+message.bedrock-rank:
+- "§8§l--- == [ §eBEDROCK RANG §8] == ---"
+- "§7U kan ons ondersteun deur §eBEDROCK"
+- "§7rang te koop. U sal kan flieg in di algemene"
+- "§7area, §eAlle§7 §ekits§7 verniet, en ook"
+- "§7alles van die §eKosmetiese spyskaart§7 verniet."
+- "§7Gaan na ons webtuiste to om die rang te koop"
+- "§ebedrockplay.tebex.io§7! Net vir §e6 EUR§7!"
+
+message.welcome-floating:
+- "§l§8--- == [ §eBedrock§6Play §2NETWERK §8] == ---§r"
+- "§7Webtuiste: §bbedrockplay.eu"
+- "§7Discord: §bdiscord.io/bedrockplay"
+- "§f§oDankie dat u tyd saam ons spandeer!"
+
+message.builder-credits: "§7Die algemene area was gebou deur\n§e@CryptoKey98§7 en §e@DepstrajderTv"
+
+# Lobby chat messages
+message.muted: §cU was gedempte. Wag {%0} sekondes om ongedempte te raak.
+message.chat-caps: §cMoenie CAPS gebruik wanneer u gesels nie!
+message.chat-advertisement: §cJammer maar advertensies word nie toegelaat nie!
+message.chat-limit: §6Wag {%0} sekondes voor u weer kan praat.
+
+# Survival messages
+message.spawnpoint: §aU se "spawn" plek was gemerk!
+...
